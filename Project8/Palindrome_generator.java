@@ -1,3 +1,4 @@
+//Palindrome by rearranging or removing characters
 package Project8;
 import java.util.*;
 public class Palindrome_generator {
