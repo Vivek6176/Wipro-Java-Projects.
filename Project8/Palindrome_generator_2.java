@@ -1,3 +1,4 @@
+//Finding longest palindrome in a string 
 package Project8;
 import java.util.*;
 public class Palindrome_generator_2 {
@@ -40,4 +41,3 @@ public class Palindrome_generator_2 {
         System.out.println(); 
     }
 }
-//ASANTALIVEDASADEVILATNASA
